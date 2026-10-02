@@ -1,0 +1,12 @@
+D:\Do-an\He Phan Tan\ASP.Net Remote\ASP.Net Remote\bin\Debug\ASP.Net Remote.dll
+D:\Do-an\He Phan Tan\ASP.Net Remote\ASP.Net Remote\bin\Debug\ASP.Net Remote.pdb
+D:\Do-an\He Phan Tan\ASP.Net Remote\ASP.Net Remote\obj\Debug\ASP.Net Remote.csproj.CoreCompileInputs.cache
+D:\Do-an\He Phan Tan\ASP.Net Remote\ASP.Net Remote\obj\Debug\ASP.Net Remote.dll
+D:\Do-an\He Phan Tan\ASP.Net Remote\ASP.Net Remote\obj\Debug\ASP.Net Remote.pdb
+D:\Do-an\He Phan Tan\ASP.Net Remote\ASP.Net Remote\obj\Debug\ASP.Net Remote.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\ASP.Net Remote\bin\Debug\ASP.Net Remote.dll
+C:\Users\ASUS\Downloads\ASP.Net Remote\ASP.Net Remote\bin\Debug\ASP.Net Remote.pdb
+C:\Users\ASUS\Downloads\ASP.Net Remote\ASP.Net Remote\obj\Debug\ASP.Net Remote.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\ASP.Net Remote\obj\Debug\ASP.Net Remote.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\ASP.Net Remote\obj\Debug\ASP.Net Remote.dll
+C:\Users\ASUS\Downloads\ASP.Net Remote\ASP.Net Remote\obj\Debug\ASP.Net Remote.pdb

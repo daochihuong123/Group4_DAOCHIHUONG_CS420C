@@ -1,0 +1,9 @@
+﻿{
+  "ServerUrl": "tcp://26.35.206.133:8085/CalculatorServiceURI",
+  "StudentName": "Đào Chí Hướng",
+  "StudentId": "29211155108",
+  "ChatSender": "Đào Chí Hướng",
+  "AutoConnect": false,
+  "RememberSettings": true,
+  "SelectedTabIndex": 2
+}

@@ -1,0 +1,20 @@
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\bin\Debug\RemotingServer.exe.config
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\bin\Debug\RemotingServer.exe
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\bin\Debug\RemotingServer.pdb
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\bin\Debug\ASP.Net Remote.dll
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\bin\Debug\ASP.Net Remote.pdb
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\obj\Debug\RemotingServer.csproj.CoreCompileInputs.cache
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\obj\Debug\RemotingServer.exe
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\obj\Debug\RemotingServer.pdb
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\obj\Debug\RemotingServer.csproj.AssemblyReference.cache
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServer\obj\Debug\Remoting.E1AF2E13.Up2Date
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\bin\Debug\RemotingServer.exe.config
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\bin\Debug\RemotingServer.exe
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\bin\Debug\RemotingServer.pdb
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\bin\Debug\ASP.Net Remote.dll
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\bin\Debug\ASP.Net Remote.pdb
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\obj\Debug\RemotingServer.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\obj\Debug\RemotingServer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\obj\Debug\RemotingServer.csproj.CopyComplete
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\obj\Debug\RemotingServer.exe
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServer\obj\Debug\RemotingServer.pdb

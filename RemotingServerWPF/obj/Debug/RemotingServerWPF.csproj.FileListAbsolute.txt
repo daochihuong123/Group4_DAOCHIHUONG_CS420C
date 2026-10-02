@@ -1,0 +1,28 @@
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\bin\Debug\RemotingServerWPF.exe
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\bin\Debug\RemotingServerWPF.pdb
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\bin\Debug\ASP.Net Remote.dll
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\bin\Debug\ASP.Net Remote.pdb
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\MainWindow.baml
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\MainWindow.g.cs
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\App.g.cs
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF_MarkupCompile.cache
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.g.resources
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.csproj.CoreCompileInputs.cache
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.exe
+d:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.pdb
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.csproj.AssemblyReference.cache
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingServerWPF\obj\Debug\Remoting.56232C82.Up2Date
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\bin\Debug\RemotingServerWPF.exe
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\bin\Debug\RemotingServerWPF.pdb
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\bin\Debug\ASP.Net Remote.dll
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\bin\Debug\ASP.Net Remote.pdb
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF_MarkupCompile.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.g.resources
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.csproj.CopyComplete
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.exe
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingServerWPF\obj\Debug\RemotingServerWPF.pdb

@@ -1,0 +1,20 @@
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\bin\Debug\RemotingClient.exe.config
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\bin\Debug\RemotingClient.exe
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\bin\Debug\RemotingClient.pdb
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\bin\Debug\ASP.Net Remote.dll
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\bin\Debug\ASP.Net Remote.pdb
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\obj\Debug\RemotingClient.exe
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\obj\Debug\RemotingClient.pdb
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\obj\Debug\RemotingClient.csproj.AssemblyReference.cache
+D:\Do-an\He Phan Tan\ASP.Net Remote\RemotingClient\obj\Debug\Remoting.2CA0D7E6.Up2Date
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\bin\Debug\RemotingClient.exe.config
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\bin\Debug\ASP.Net Remote.dll
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\bin\Debug\ASP.Net Remote.pdb
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\obj\Debug\RemotingClient.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\obj\Debug\RemotingClient.csproj.CopyComplete
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Users\ASUS\Downloads\ASP.Net Remote\RemotingClient\obj\Debug\RemotingClient.pdb
